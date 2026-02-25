@@ -1,4 +1,4 @@
-# Creo Technologies Sales & Performance Dashboard
+# Rift Analytics Sales & Performance Dashboard
 
 A comprehensive Power BI analytics solution transforming 3 years of sales data into actionable business intelligence for strategic decision-making.
 
